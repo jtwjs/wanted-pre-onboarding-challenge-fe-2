@@ -7,6 +7,11 @@
  * @property {string} [tags] - 태그 목록입니다.
  */
 
+/**
+ * module description
+ * @module Todo
+ */
+
 /** todo의 비즈니스로직을 관리하는 클래스입니다. */
 class Todo {
   /**
